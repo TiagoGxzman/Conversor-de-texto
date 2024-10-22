@@ -13,7 +13,7 @@ Este programa es un conversor de texto desarrollado con `Tkinter`. Permite al us
 - Verificación para asegurar que solo se ingresen letras y espacios, mostrando un mensaje de error si se ingresan caracteres no válidos.
 
 ## Requisitos
-- Python 3.x
+- Python 3.11 en adelante.
 - Biblioteca `Tkinter` (normalmente viene preinstalada con Python).
 
 ## Instalación
@@ -24,3 +24,5 @@ Este programa es un conversor de texto desarrollado con `Tkinter`. Permite al us
 1. Ejecuta el archivo principal del programa:
    ```bash
    python conversor_texto.py
+## Desarrollado por:
+Santiago Guzman Garcia.
