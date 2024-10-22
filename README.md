@@ -23,6 +23,6 @@ Este programa es un conversor de texto desarrollado con `Tkinter`. Permite al us
 ## Cómo usar
 1. Ejecuta el archivo principal del programa:
    ```bash
-   python conversor_texto.py
+   python CalcuMayusMins.py
 ## Desarrollado por:
 Santiago Guzman Garcia.
